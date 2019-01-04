@@ -9,7 +9,7 @@
   ```Shell
   pip install -r requirements.txt
   ```
-- Download the images manually: **images.tar.gz**([Google Drive](https://drive.google.com/open?id=1D47msNOOiJKvPOXlnpyzdKA3k6E97NTC) | [Baidu pan](https://pan.baidu.com/s/1Zb2REEIk8tcahDa8KacPNA)). Place them into  `./models/yolo` respectively.
+- Download the images manually: **images.tar.gz**([Google Drive](https://pan.baidu.com/s/1UrBR9ClSQk-hFoPGCPDR2Q) | [Baidu pan](https://pan.baidu.com/s/1UrBR9ClSQk-hFoPGCPDR2Q).  code: w57d  Place them into  `./images` respectively.
 
 
 ## Quick Start:  
@@ -17,8 +17,8 @@ $ python3
 $ python3 
 
 - Pre-requisite:  
-    - torch 0.4.0
-    - Python3.5  
+    - tensorflow 1.8.0
+    - Python3.6  
     - Numpy  
     - SciPy  
     - Opencv 3.4.4 for Python
