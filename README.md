@@ -9,7 +9,7 @@
   ```Shell
   pip install -r requirements.txt
   ```
-- Download the images manually: **images.tar.gz**([Google Drive](https://pan.baidu.com/s/1UrBR9ClSQk-hFoPGCPDR2Q) | [Baidu pan](https://pan.baidu.com/s/1UrBR9ClSQk-hFoPGCPDR2Q).  code: w57d  Place them into  `./images` respectively.
+- Download the images manually: **images.tar.gz**([Google Drive](https://pan.baidu.com/s/1124fs6XKYk4XEyiwxwrz_g) | [Baidu pan](https://pan.baidu.com/s/1124fs6XKYk4XEyiwxwrz_g).  code: w8b4  Place them into  `./images` respectively.
 
 
 ## Quick Start:  
